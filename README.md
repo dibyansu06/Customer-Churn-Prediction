@@ -37,7 +37,7 @@ And many more features...
 - **Data Preprocessing**: Cleaned and transformed the data, addressing missing values and encoding categorical features.
 - **Model Selection**: Evaluated multiple machine learning algorithms, including Logistic Regression, SVM, Decision Tree, and Random Forest.
 
-- | **Models** |
+  | **Models** |
   | ------ |
   | [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) |
   | [GaussianNB](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html) |
