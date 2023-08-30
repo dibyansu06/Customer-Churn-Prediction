@@ -33,7 +33,7 @@ And many more features...
 
 - **Exploratory Data Analysis (EDA)**: Explored the data to gain insights into customer behavior and churn patterns.
 
-  ![churn prediction](images/churn_percentage)
+  ![churn prediction](images/churn_percentage.png)
 - **Data Preprocessing**: Cleaned and transformed the data, addressing missing values and encoding categorical features.
 - **Model Selection**: Evaluated multiple machine learning algorithms, including Logistic Regression, SVM, Decision Tree, and Random Forest.
 
